@@ -1,0 +1,29 @@
+#Container {
+    width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.inside {
+    margin: auto 200px;
+}
+
+.tvbox {}
+
+.img_tv {
+    position: relative;
+}
+
+.swiper-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* スライダーライブラリ Swiper.js */
+.slide-item {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
